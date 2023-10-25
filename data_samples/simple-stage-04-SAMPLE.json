@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Plain",
+    "title": "Plain Bob Minimus",
+    "notation": "-14-14,12",
+    "stage": "4"
+  },
+  {
+    "name": "Double",
+    "title": "Double Bob Minimus",
+    "notation": "-14-34,12",
+    "stage": "4"
+  },
+  {
+    "name": "Reverse",
+    "title": "Reverse Bob Minimus",
+    "notation": "-14-34,14",
+    "stage": "4"
+  },
+  {
+    "name": "Reverse Court",
+    "title": "Reverse Court Place Minimus",
+    "notation": "-14.12.14,14",
+    "stage": "4"
+  },
+  {
+    "name": "Reverse St Nicholas",
+    "title": "Reverse St Nicholas Bob Minimus",
+    "notation": "-14.12.34,12",
+    "stage": "4"
+  },
+  {
+    "name": "Canterbury",
+    "title": "Canterbury Place Minimus",
+    "notation": "-14.12.34,14",
+    "stage": "4"
+  },
+  {
+    "name": "Reverse Canterbury",
+    "title": "Reverse Canterbury Place Minimus",
+    "notation": "34.14-14,12",
+    "stage": "4"
+  },
+  {
+    "name": "Single Court",
+    "title": "Single Court Place Minimus",
+    "notation": "34.14-14,14",
+    "stage": "4"
+  }
+]
