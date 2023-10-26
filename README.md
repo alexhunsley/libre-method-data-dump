@@ -7,6 +7,20 @@ For small unzipped samples of the data formats, look in [data_samples](data_samp
 
 The data is a modified version of data produced by, and Copyright of, [Anthony P. Smith](http://www.methods.org.uk).
 
+# Cloning only the most recent data
+
+To clone just the most recent data (commit), without pulling the older versions, use `--depth 1`:
+
+```
+git clone --depth 1 https://github.com/alexhunsley/libre-method-data-dump
+```
+
+# Versioning
+
+Data updates are tagged with both the semver of [libre-method-json-place-notation](https://github.com/alexhunsley/libre-method-json-place-notation) used and the date the processing was performed.
+
+Example: `release/0.1.0_2023-10-26`
+
 # Original data Copyright notice
 
 ```
