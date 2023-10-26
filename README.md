@@ -17,7 +17,7 @@ git clone --depth 1 https://github.com/alexhunsley/libre-method-data-dump
 
 # Versioning
 
-Data updates are tagged with both the semver of [libre-method-json-place-notation](https://github.com/alexhunsley/libre-method-json-place-notation) used and the date the processing was performed.
+Data updates are tagged with both the semantic version of [libre-method-json-place-notation](https://github.com/alexhunsley/libre-method-json-place-notation) used and the date the processing was performed.
 
 Example: `release/0.1.0_2023-10-26`
 
